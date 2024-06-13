@@ -2,15 +2,14 @@
     background:black;
     color: #FFC700;
   }
-  .libre-baskerville-regular {
-  font-family: "Libre Baskerville", serif;
-  font-weight: 400;
-  font-style: normal;
-  }
+  
   div{
     margin-top:50px;
     width: 50%;
     margin-left:25%;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
   }
   
   img{
